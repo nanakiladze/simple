@@ -1,7 +1,7 @@
 .header{
     color: aliceblue;
     background-color: rgb(58, 57, 57);
-    padding: 70px;
+    padding: 1px;
     margin: 0;
     text-align: center;
 }
@@ -40,7 +40,7 @@ p{
     width: 31%;
     height: 4cm;
   background-color: rgb(193, 198, 198);
-  padding: 24px;
+  padding: 29px;
   }
   .footer{
     position: fixed; 
@@ -49,7 +49,7 @@ p{
     width: 100%;
     background-color: #333; 
     color: #fff; 
-    padding: 20px; 
+    padding: 1px; 
     text-align: center; 
 }
   
